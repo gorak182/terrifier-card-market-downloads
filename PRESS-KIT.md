@@ -34,4 +34,4 @@ Estas imágenes pueden acompañar la cobertura de Terrifier Card Market Online. 
 
 ## Estado
 
-Versión Windows publicada comprobada el 6 de noviembre de 2026: 0.1.15. Las correcciones locales posteriores todavía no forman parte de esa descarga. El juego necesita conexión a Internet y conserva el progreso en el servidor. La primera conexión puede tardar mientras arranca el servicio. Es una versión de prueba en desarrollo, no un lanzamiento terminado.
+Versión Windows publicada: 0.1.33. El 21 de noviembre de 2026 se ha enviado esta misma versión al canal público de Google Play; figura en revisión y todavía no se anuncia como disponible para todos en Android. La colección tiene 266 diseños y tres ediciones, además de sus acabados especiales. El juego necesita conexión a Internet y conserva el progreso en el servidor. La primera conexión puede tardar mientras arranca el servicio. Continúa en desarrollo. Las correcciones locales posteriores a la compilación no forman parte de esa descarga.

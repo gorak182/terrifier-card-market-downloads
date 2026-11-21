@@ -1,8 +1,8 @@
 ![Terrifier Card Market Online](media/terrifier-logo.png)
 
-# Tu tienda. Tu colección. Un barrio online.
+# Terrifier Card Market Online — simulador de tienda de cartas y duelos
 
-**Gestiona una tienda de cartas con criaturas de dibujos animados de terror.** Pide cajas, repón estanterías, pon tus precios y atiende a los clientes. Después abre un sobre, descubre sus seis cartas y busca las que te faltan intercambiando con otros jugadores.
+**Terrifier Card Market Online es un juego de gestión de una tienda de cartas coleccionables, con duelos y multijugador online.** Abre un negocio lleno de criaturas de dibujos animados de terror: pide cajas, repón estanterías, pon tus precios y atiende a los clientes. Después abre sobres de seis cartas, completa tu álbum y crea un mazo para jugar contra otros jugadores o NPCs.
 
 **Gratis · Windows · En desarrollo · Requiere Internet**
 
@@ -13,9 +13,11 @@
 ## Qué puedes hacer
 
 - **Llevar tu negocio:** pedidos desde el PC, mercancía, precios, caja registradora, licencias, muebles y ampliaciones.
-- **Abrir y coleccionar:** sobres de seis cartas, álbum y 196 diseños, con versiones foil, full art y ediciones limitadas.
+- **Abrir y coleccionar:** sobres de seis cartas y 266 diseños repartidos entre Primera Edición, Bosque y Puerto, con versiones foil, full art y ediciones limitadas.
 - **Jugar con otras personas:** visitas a tiendas, intercambios de cartas y monedas, amigos, chat y duelos con tu mazo.
 - **Comprar y vender cartas:** mercado de jugadores con compra directa y subastas; se usan monedas del juego.
+- **Construir mazos y combatir:** combina monstruos, magias, trampas y maná para disputar duelos contra jugadores o NPCs con diferentes barajas.
+- **Personalizar tu espacio:** amplía y decora la tienda, muestra tus cartas en vitrinas y visita las casas de tus amigos.
 
 Las criaturas gastan maná. Las magias y trampas cuestan vida. No todo consiste en encontrar una carta bonita: también puedes construir tu mazo para jugarla.
 
@@ -47,7 +49,29 @@ Para actualizar, extrae la nueva versión en otra carpeta y usa tu cuenta habitu
 
 Windows y Android comparten el mismo juego online. Android se distribuye mediante una **prueba cerrada**: necesitas acceso como tester y aceptar la prueba con esa misma cuenta de Google. El enlace no concede acceso por sí solo.
 
+**Actualizado el 21 de noviembre de 2026:** hemos enviado la versión 0.1.33 al canal público de Google Play. Está en revisión; el acceso general aún depende de la aprobación de Google. No necesitas ser tester para jugar a la versión pública de Windows.
+
 [Acceder a la prueba de Google Play](https://play.google.com/apps/testing/com.noxgamestudio.terrifiercardmarket)
+
+## Preguntas frecuentes
+
+**¿Es gratis?** Sí, puedes descargar y jugar a la versión de Windows sin pagar. Los precios de las cartas, los productos y las subastas dentro del juego se expresan en monedas virtuales.
+
+**¿Necesita Internet?** Sí. La tienda y la colección se guardan en el servidor, y el barrio se comparte con otros jugadores. No es un juego sin conexión.
+
+**¿Puedo jugar contra la máquina?** Sí, hay duelos contra NPCs, además de los clientes que compran productos y las partidas entre NPCs de las mesas.
+
+**¿Puedo jugar con amigos en móvil y PC?** Windows y Android comparten servidor. En Android necesitas una versión aprobada y acceso al canal de distribución correspondiente.
+
+**¿Cómo se actualiza Windows?** Descarga el ZIP de [la última versión](https://github.com/gorak182/terrifier-card-market-downloads/releases/latest), extráelo completo y accede con tu cuenta habitual. No descargues los archivos «Source code».
+
+## English — online card shop simulator
+
+**Terrifier Card Market Online combines card shop management, collectible horror cards and online card battles.** Stock shelves, set prices and serve customers. Open six-card booster packs, build a deck, trade with other players and duel against players or NPCs.
+
+Explore 266 card designs across three collections, including foil and full-art variants. Expand your shop, display your collection and visit friends in a shared online neighborhood. The game supports Spanish and English.
+
+[Download the latest Windows release](https://github.com/gorak182/terrifier-card-market-downloads/releases/latest). Download `TerrifierCardMarket-Windows.zip`, extract the entire archive and run `TerrifierCardMarket.exe`. Free to play, in development and requires an Internet connection. The Android public release was submitted for Google Play review on November 21, 2026; closed testing remains available to eligible testers until approval.
 
 ## Estamos buscando jugadores que lo prueben
 
