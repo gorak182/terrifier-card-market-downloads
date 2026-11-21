@@ -4,14 +4,14 @@ Juego gratuito en desarrollo que mezcla gestión de una tienda de cartas, colecc
 
 ## Enlaces
 
-- [Presentación y descarga](https://github.com/gorak182/terrifier-card-market-downloads)
+- [Web oficial en español](https://gorak182.github.io/terrifier-card-market-downloads/es/) · [Official website in English](https://gorak182.github.io/terrifier-card-market-downloads/en/)
 - [Versión publicada para Windows](https://github.com/gorak182/terrifier-card-market-downloads/releases/latest)
-- [Android: prueba cerrada, requiere acceso de tester](https://play.google.com/apps/testing/com.noxgamestudio.terrifiercardmarket)
+- [Descargar para Android en Google Play](https://play.google.com/store/apps/details?id=com.noxgamestudio.terrifiercardmarket)
 - Contacto: gorkaokami@gmail.com
 
 ## Descripción corta
 
-Monta tu tienda de cartas de terror, pon los precios, atiende a los clientes y abre sobres. Completa tu álbum, visita otras tiendas e intercambia cartas con otros jugadores. Gratis para probar en Windows; Android está en prueba cerrada.
+Monta tu tienda de cartas de terror, pon los precios, atiende a los clientes y abre sobres. Completa tu álbum, visita otras tiendas e intercambia cartas con otros jugadores. Disponible gratis para Windows y Android.
 
 ## Ideas para enseñarlo
 
@@ -25,6 +25,8 @@ Son ideas para grabar jugando; no representan clips ya grabados ni prometen que 
 
 ## Imágenes disponibles
 
+- [Tienda · PNG](media/tienda.png). Una clienta pasa por caja. Captura del juego en Windows.
+- [Duelo · PNG](media/duelo.png). Tablero con monstruos en juego y cartas en mano. Partida de prueba en el Editor.
 - [Logo horizontal](media/terrifier-logo.png)
 - [Álbum](media/album.jpg): vista del Editor, colección de prueba.
 - [Intercambio](media/intercambio.png): interfaz con participantes y ofertas simulados.
@@ -34,4 +36,4 @@ Estas imágenes pueden acompañar la cobertura de Terrifier Card Market Online. 
 
 ## Estado
 
-Versión Windows publicada: 0.1.33. El 21 de noviembre de 2026 se ha enviado esta misma versión al canal público de Google Play; figura en revisión y todavía no se anuncia como disponible para todos en Android. La colección tiene 266 diseños y tres ediciones, además de sus acabados especiales. El juego necesita conexión a Internet y conserva el progreso en el servidor. La primera conexión puede tardar mientras arranca el servicio. Continúa en desarrollo. Las correcciones locales posteriores a la compilación no forman parte de esa descarga.
+El lanzamiento 0.1.33 está publicado en Windows y en el canal de producción de [Google Play](https://play.google.com/store/apps/details?id=com.noxgamestudio.terrifiercardmarket). Google Play indica la disponibilidad según el país y el dispositivo. La colección tiene 266 diseños y tres ediciones, además de sus acabados especiales. El juego necesita conexión a Internet y conserva el progreso en el servidor. La primera conexión puede tardar mientras arranca el servicio. Continúa en desarrollo. Las correcciones locales posteriores a la compilación no forman parte de esa descarga.
